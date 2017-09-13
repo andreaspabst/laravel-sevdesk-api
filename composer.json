@@ -20,6 +20,5 @@
             "Andreaspabst\\SevDesk\\": "src/SevDesk"
         }
     },
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
