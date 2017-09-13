@@ -1,6 +1,6 @@
 {
     "name": "andreaspabst/laravel-sevdesk-api",
-    "description": "SevDesk API Client for Laravel PHP Framework",
+    "description": "SevDesk API Client for Laravel PHP Framework.",
     "keywords": ["sevdesk", "laravel", "api"],
     "type": "library",
     "version": "1.0.0",
