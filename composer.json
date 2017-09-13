@@ -1,0 +1,25 @@
+{
+    "name": "andreaspabst/laravel-sevdesk-api",
+    "description": "SevDesk API Client for Laravel PHP Framework",
+    "type": "library",
+    "homepage": "https://github.com/andreaspabst/laravel-sevdesk-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Pabst",
+            "email": "kontakt@andreas-pabst.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andreaspabst\\SevDesk\\": "src/SevDesk"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
